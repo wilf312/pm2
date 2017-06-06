@@ -1,0 +1,13 @@
+{
+  "name": "pm2test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.15.3",
+    "pm2": "^2.4.6"
+  }
+}

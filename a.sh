@@ -1,0 +1,1 @@
+SERVER_PORT="${SERVER_PORT}" DOMAIN="fuga" npm start
